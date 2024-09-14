@@ -1,3 +1,3 @@
-# I build this website html/css
+# html/css
 # stylish navigation bar
 
